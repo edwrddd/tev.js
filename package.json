@@ -1,0 +1,28 @@
+{
+  "name": "tev.js",
+  "version": "1.0.0",
+  "description": "Teverse wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edwrddd/tev.js.git"
+  },
+  "keywords": [
+    "teverse",
+    "api",
+    "tev",
+    "javascript"
+  ],
+  "author": "Edward",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edwrddd/tev.js/issues"
+  },
+  "homepage": "https://github.com/edwrddd/tev.js#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
